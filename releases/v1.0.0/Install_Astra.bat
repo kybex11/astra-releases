@@ -56,9 +56,10 @@ if %ERRORLEVEL% EQU 0 (
     echo   4. Запустите игру!
     echo.
     echo  ГОРЯЧИЕ КЛАВИШИ В ИГРЕ:
-    echo   • Right Shift  - Открыть Dashboard / Меню модулей (Shadcn UI)
+    echo   • Right Shift  - Открыть Web GUI меню (Ultralight CEF)
+    echo   • Right Alt    - Редактор интерфейса HUD
     echo   • M            - Открыть интерактивную карту мира (World Map)
-    echo   • B (код 66)   - Поставить путевую точку (Waypoint)
+    echo   • B            - Поставить путевую точку (Waypoint)
     echo =====================================================================
 ) else (
     echo.

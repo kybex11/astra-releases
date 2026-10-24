@@ -1,0 +1,3 @@
+# Ignore heavy executables in git tree (uploaded to GitHub Releases)
+*.exe
+releases/*/*.exe
