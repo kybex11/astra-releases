@@ -1,0 +1,1 @@
+2776d9eec812f070cf2cc8fd607178ee34f26e65c9014deb8e1daf78e12ccb50  astra-1.0.0.jar
